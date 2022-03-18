@@ -1,3 +1,5 @@
-# 36-350 /n
-# Statistical Computing /n
+# 36-350
+
+# Statistical Computing
+
 # Homework 8
